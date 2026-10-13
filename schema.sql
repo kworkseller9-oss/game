@@ -1,0 +1,3 @@
+-- Справочно. Таблицы создаются автоматически при первом запросе к API,
+-- вручную выполнять этот файл не нужно.
+-- users, rooms, room_players, messages, actions, history — см. api/_lib/db.js
